@@ -1,0 +1,32 @@
+h1{ 
+    
+    font-size: 90px;
+    color: white;
+    text-align: center;
+    background-color: black;
+    margin-top: 0px;
+}
+body {
+    display: block;
+    margin: 1px;
+}
+.index-intro {
+    position: fixed;
+    left: 270px;
+    bottom:60%;
+
+}
+.index-fake {
+    position: fixed;
+    left: 270px;
+    bottom:45%;
+
+
+
+}
+.index-links {
+     position: fixed;
+     left: 75%;
+     bottom: 60%;
+
+}
