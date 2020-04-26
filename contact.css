@@ -20,7 +20,6 @@ background-color: whitesmoke;
 .contact{
     color: turquoise;
     font-weight: bolder;
-
 }
 footer{
     position: absolute;
@@ -29,6 +28,17 @@ footer{
     padding: 20px 0px;
     top: 93%;
     width: 100%;
+}
+.main-container{
+    float: left;
+    width: 100%;
+    padding: 30px;
+
+}
+#container-contact{
+    padding-top: 230px;
+
+}
 
     
     
@@ -41,5 +51,3 @@ footer{
   
     
 
-
-}
