@@ -1,0 +1,45 @@
+.wrapper{
+    width: 610px;
+    background-color: white;
+    margin: 50px auto;
+    height: 400px auto;
+    
+
+}
+
+.input{
+    background-color: turquoise;
+
+
+}
+body{
+background-color: whitesmoke;
+
+
+}
+.contact{
+    color: turquoise;
+    font-weight: bolder;
+
+}
+footer{
+    position: absolute;
+    background-color: gray;
+    text-align: center;
+    padding: 20px 0px;
+    top: 93%;
+    width: 100%;
+
+    
+    
+
+
+
+
+
+
+  
+    
+
+
+}

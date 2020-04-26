@@ -1,0 +1,46 @@
+.nav{
+    background-color: white;
+    padding: 10px 10px;
+    text-align: right;
+
+
+    
+    
+    
+    
+}
+
+body{
+    background-color: lightgrey;
+    margin: 0px;
+
+
+
+
+
+}
+.wrapper{
+    background-color: white;
+    width: 600px;
+    height: 670px;
+    margin: 50px auto;
+
+    
+
+}
+.name{ 
+    float: left;
+    background-color: teal;
+    width: 300px;
+    padding: 10px 10px;
+
+
+
+
+
+}
+
+
+
+
+}

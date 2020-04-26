@@ -1,32 +1,93 @@
-h1{ 
-    
-    font-size: 90px;
+#header { 
+    position: absolute;
+    font-size: 40px;
     color: white;
     text-align: center;
-    background-color: black;
-    margin-top: 0px;
+    background-color: teal;
+    width: 250px;
+    height: 100px;
+    left: 40%;
+    z-index: 3;
+    top: 0;
 }
+.nav {
+    height:60px;
+    background-color: white;
+    border-color: black;
+    text-align: right;
+
+    
+    
+
+}
+.h2{
+
+
+
+}
+
+
+.name {
+position: absolute;
+text-align: center;
+background-color: teal;
+width: 250px;
+height: 40px;
+padding-top: 20px;
+top: 0;
+float: center;
+color: white;
+font-size: larger;
+font-weight: bolder;
+
+
+
+
+
+}
+.wrapper {
+    width: 700px;
+    height: 350px;
+    margin: 50px auto;
+    background-color: white;
+    border-color: black;
+    line-height: 30px;
+    padding: 10px 10px;
+    
+
+
+
+
+
+}
+.about{
+    color: teal;
+    font-weight: bolder;
+    font-size: larger;
+
+
+
+
+}
+
 body {
-    display: block;
-    margin: 1px;
+    background: whitesmoke;
+    
+    
 }
-.index-intro {
-    position: fixed;
-    left: 270px;
-    bottom:60%;
 
-}
-.index-fake {
-    position: fixed;
-    left: 270px;
-    bottom:45%;
+footer{
+    position: absolute;
+    background-color:  grey;
+    text-align: center;
+    padding: 20px; 
+    top: 93%;
+    height: 50px;
+    width: 100%;
+    
 
-
-
-}
-.index-links {
-     position: fixed;
-     left: 75%;
-     bottom: 60%;
 
 }
+
+
+
